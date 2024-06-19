@@ -1,2 +1,3 @@
 # People-counting-using-CSRNet
 Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes
+The project involves developing a congested scene recognition system using CSRNet to estimate crowd counts on the ShanghaiTech dataset accurately. The model advances image analysis and crowd density estimation by employing 2D feature extraction and dilated Convolutional Neural Networks (CNNs). Systematic refinements to the model architecture significantly enhanced its performance in recognizing congested scenes. The technology stack includes Python, OpenCV, and CSRNet, demonstrating machine learning and computer vision proficiency for influential crowd count estimation and scene analysis.
